@@ -1,10 +1,8 @@
 # Spotify Clone
 
 Este é um projeto simples de clone do front-end do Spotify, desenvolvido com HTML, CSS e JavaScript. O clone inclui uma barra lateral, área de conteúdo principal para playlists, barra de pesquisa, e detalhes do artista.
-## Demonstração
-Explore o projeto [clicando aqui]()!
 
-<img src="" width="50%">
+<img src="https://media.licdn.com/dms/image/D4D22AQFtjgYb7PO9Fg/feedshare-shrink_2048_1536/0/1707947795227?e=1714003200&v=beta&t=NtHncXyovPObIN32Ji1pE_VNAbx4TeKpEujmlB3NZ9E" >
 
 ## Funcionalidades Principais
 - **Barra Lateral:** Navegação fácil com links para páginas iniciais e de busca.
